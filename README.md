@@ -1,11 +1,9 @@
 # Vue Dynamic List of Posts
 
-Implement the App with ability to show posts of a current logged-in user.
+Implemented the App with ability to show posts of a current logged-in user.
 The user should be able to create a new post with their userId. Each post can
 be opened in the sidebar with its comments, can be edited and deleted. There should delete a comment and a
 form to add new comments.
-
-> Here is [the working version](https://mate-academy.github.io/vue_dynamic-list-of-posts/#/)
 
 1. Learn the `.html` files to get all needed layouts;
    - Bulma is required to have all styles
@@ -47,3 +45,7 @@ form to add new comments.
 1. Implement comment deletion
    - Delete the commnet immediately not waiting for the server response to improve the UX.
 1. (\*) Handle `Add` and `Delete` errors so the user can retry
+
+## Demo Links
+
+- [DEMO LINK](https://AndriiZakharenko.github.io/vue_dynamic-list-of-posts/)
